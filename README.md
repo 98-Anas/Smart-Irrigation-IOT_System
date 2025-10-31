@@ -159,10 +159,11 @@ python3 adafruit_script.py
 ![Adafruit Dashboard](images/adafruit_dashboard.png)
 
 **Blynk Mobile Control:**
-![Blynk App](images/blynk_app.png)
+![Blynk App](<img width="396" height="762" alt="image" src="https://github.com/user-attachments/assets/a7c78e71-7bb6-4cb1-8e87-5ee94ef5fae2" />
+)
 
 **Demonstration Video:**
-[Watch the working prototype](https://nileuniversity-my.sharepoint.com/:v:/g/personal/s_alwardany_nu_edu_eg/EdbGMWAUS9NIutiPOjR0QboBighQG1EUESw8bqY_hBorhw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VzqkZx)
+[Watch the working prototype](https://www.linkedin.com/posts/anas-ayman98_iot-raspberrypi-embeddedlinux-activity-7162161673590575104-E8IP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_flRYBhpHmU-k6fTsQWlIKmsnG6GSidPM)
 
 ---
 
@@ -226,9 +227,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 > *“Smart irrigation systems represent a key intersection between IoT, sustainability, and automation — conserving resources while maintaining plant vitality.”*
 > — *Let it Grow Team*
 
-```
-
----
-
-Would you like me to generate a **ready-to-use Markdown file (`README.md`)** for direct download from this content?
-```
