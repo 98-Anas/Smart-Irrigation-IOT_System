@@ -1,6 +1,3 @@
-# Smart-Irrigation-IOT_System
----
-
 # 🌿 Smart Irrigation IoT System – *Let it Grow*
 
 **Course:** ECEN430 – Internet of Things  
