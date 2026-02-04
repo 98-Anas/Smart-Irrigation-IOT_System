@@ -75,7 +75,7 @@ This setup allows plants to receive **precisely the amount of water needed**, co
 | **Adafruit IO Dashboard** | Web-based visualization |
 | **Blynk Mobile App** | Remote control and mode switching |
 
-![Hardware Circuit](images/circuit.png)
+![Hardware Circuit](images/im_1.jpeg)
 
 ---
 
