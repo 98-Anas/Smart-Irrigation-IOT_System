@@ -56,7 +56,7 @@ This setup allows plants to receive **precisely the amount of water needed**, co
 4. Both scripts communicate internally via **System V message queues**, enabling synchronization.  
 5. The relay activates the water pump automatically or manually depending on the selected mode.
 
-![System Workflow](./images/workflow.png)
+![System Workflow](Smart-Irrigation-IOT_System/images/workflow.png)
 
 ---
 
